@@ -1,0 +1,5 @@
+#!/system/bin/sh
+/system/xbin/busybox cp /data/local/su /system/xbin/su
+chmod 0.0 /system/xbin/su
+chmod 06755 /system/xbin/su
+
