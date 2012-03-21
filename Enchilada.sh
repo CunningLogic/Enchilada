@@ -4,8 +4,6 @@ echo "for the HDcity Android 2.3 TV box"
 echo "March 21st 2012"
 echo "Follow me! http://www.twitter.com/TeamAndIRC"
 echo "-"
-echo "Exclusively from AndroidPolice.com"
-echo "-"
 echo "Special thanks to Ralph from Austrailia, who gave me ssh access to his TV box"
 echo "-"
 
