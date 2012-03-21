@@ -34,7 +34,6 @@ echo "Now we can write to install-recovery.sh so lets replace it with out own sc
 # chmod 06755 /system/xbin/su
 
 adb shell "cat /data/local/pwn.sh > /system/etc/install-recovery.sh"
-adb shell "cat /data/local/pwn.sh > /system/etc/install-recovery.sh"
 adb reboot
 adb wait-for-device
 sleep 10
